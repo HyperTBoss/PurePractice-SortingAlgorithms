@@ -17,11 +17,11 @@ namespace PurePractice
             Console.Read();
         }
 
-        static void StartSorts(int SortType, int[,] StorgeUnites_2DShelf)
+        static void StartSorts(int SortType, int[] StorgeUnites_2DShelf)
         {
             RecursiveFunction(StorgeUnites_2DShelf);
         }
-        static void RecursiveFunction(int[,]  StorgeUnites_2DShelfCache)
+        static void RecursiveFunction(int[]  StorgeUnites_2DShelfCache)
         {
 
 
@@ -36,25 +36,6 @@ namespace PurePractice
             {
                 RecursiveFunction();
             }
-        }
-
-        static int MergeSort()
-        {
-             
-        }
-
-        static int InsertionSort()
-        {
-
-        }
-        static int QuickSort()
-        {
-
-        }
-
-        static int BubbleSort()
-        {
-
         }
     }
 }
