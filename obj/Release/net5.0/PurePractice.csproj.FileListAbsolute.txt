@@ -1,0 +1,5 @@
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Release\net5.0\PurePractice.csproj.AssemblyReference.cache
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Release\net5.0\PurePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Release\net5.0\PurePractice.AssemblyInfoInputs.cache
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Release\net5.0\PurePractice.AssemblyInfo.cs
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Release\net5.0\PurePractice.csproj.CoreCompileInputs.cache

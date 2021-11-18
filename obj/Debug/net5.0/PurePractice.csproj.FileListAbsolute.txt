@@ -1,0 +1,16 @@
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\PurePractice.exe
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\PurePractice.deps.json
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\PurePractice.runtimeconfig.json
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\PurePractice.runtimeconfig.dev.json
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\PurePractice.dll
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\ref\PurePractice.dll
+C:\Users\AkeemOB\source\repos\PurePractice\bin\Debug\net5.0\PurePractice.pdb
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.csproj.AssemblyReference.cache
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.AssemblyInfoInputs.cache
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.AssemblyInfo.cs
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.csproj.CoreCompileInputs.cache
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.dll
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\ref\PurePractice.dll
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.pdb
+C:\Users\AkeemOB\source\repos\PurePractice\obj\Debug\net5.0\PurePractice.genruntimeconfig.cache
