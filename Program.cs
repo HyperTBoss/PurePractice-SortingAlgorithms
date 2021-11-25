@@ -5,36 +5,36 @@ namespace PurePractice
 {
     class Program
     {
-        public static int IncrementingValue = 0;
-        public static bool EndRecur = false;
-
         static void Main(string[] args)
         {
-            Console.WriteLine("aaa");
+            int[] IntArray = Enumerable.Range(1, 10).ToArray();
+            var rng = new Random();
 
-            
+            Console.WriteLine(BinarySearch.SearchDataIndex(IntArray, 4) + " This is LinearSearch");
+            Console.WriteLine(" ");
+            Console.Read();
 
+            //Mutate For Sort
+            rng.Shuffle(IntArray);
+
+            Console.WriteLine(string.Join("-", InsertionSort.SortData(IntArray)) + " This is InsertionSort");
+            Console.WriteLine(" ");
             Console.Read();
         }
 
-        static void StartSorts(int SortType, int[] StorgeUnites_2DShelf)
+
+    }
+    static class RandomExtensions
+    {
+        public static void Shuffle<T>(this Random rng, T[] array)
         {
-            RecursiveFunction(StorgeUnites_2DShelf);
-        }
-        static void RecursiveFunction(int[]  StorgeUnites_2DShelfCache)
-        {
-
-
-
-            if (EndRecur == true)
+            int n = array.Length;
+            while (n > 1)
             {
-                Console.WriteLine("End of the line baby~");
-                Console.ReadKey();
-                return;
-            }
-            else
-            {
-                RecursiveFunction();
+                int k = rng.Next(n--);
+                T temp = array[n];
+                array[n] = array[k];
+                array[k] = temp;
             }
         }
     }

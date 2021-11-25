@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PurePractice
 {
-    class InsertionSort
+    class HeapSort
     {
     }
 }
